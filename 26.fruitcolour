@@ -1,0 +1,4 @@
+colour(apple,red).
+colour(cherry,red).
+colour(mango,yellow).
+colour(orange,orange).
